@@ -5,7 +5,7 @@ This document explains three fundamental HTML tags: &lt;title&gt;, &lt;h1&gt;, a
 ##  &lt;title&gt; Tag
 The &lt;title&gt; tag is used to define the title of the HTML document. This title is displayed in the browser's title bar or tab, and it's important for both usability and SEO (Search Engine Optimization).
 
-&lt;body&gt; Tag
+## &lt;body&gt; Tag
 The &lt;body&gt; tag contains all the visible content of the webpage, such as text, images, links, and other elements that are rendered by the browser.
 
 ### Key Difference:
