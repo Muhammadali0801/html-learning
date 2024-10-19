@@ -3,7 +3,7 @@
 HTML (HyperText Markup Language) uses a simple syntax to structure and display content on the web. HTML documents consist of elements, which are defined by tags enclosed in angle brackets (<tagname>). These elements help organize the content and tell the browser how to display it.
 
 Explanation of Key Components:
-<!DOCTYPE html>: Declares the document type and version of HTML.
+&lt!DOCTYPE html&gt : Declares the document type and version of HTML.
 <html>: The root element that contains all other elements on the page.
 <head>: Contains metadata, such as the character set and document title, which is not displayed on the webpage itself.
 <title>: Defines the title of the page that appears in the browser tab.
