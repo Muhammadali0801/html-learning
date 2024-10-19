@@ -1,4 +1,4 @@
-"#HTML Basic Syntax"
+# HTML Basic Syntax
 HTML (HyperText Markup Language) uses a simple syntax to structure and display content on the web. HTML documents consist of elements, which are defined by tags enclosed in angle brackets (&lt;tagname&gt;). These elements help organize the content and tell the browser how to display it.
 
 Explanation of Key Components:
