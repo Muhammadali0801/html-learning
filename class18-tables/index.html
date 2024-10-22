@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tables</title>
+</head>
+<body>
+  <h1>sale prices</h1>
+
+  <table width="500" border="2" bgcolor="#efefef" cellpadding="10" cellspacing="5">
+    <thead>
+      <tr>
+        <th>Products</th>
+        <th>Orignial price</th>
+        <th>Discounted price</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      
+      <tr>
+        <th>Printed unstiched 2pcs</th>
+        <td>2000</td>
+        <td>1750</td>
+      </tr>
+      <tr>
+        <th>Printed unstiched 3pcs</th>
+        <td colspan="2">3000</td>
+        <!-- <td>2500</td> -->
+      </tr>
+      <tr>
+        <th>Stiched 2pcs</th>
+        <td rowspan="2">4000</td>
+        <td>3500</td>
+      </tr>
+      <tr>
+        <th>Stiched 3pcs</th>
+        <!-- <td>5000</td> -->
+        <td>4000</td>
+      </tr>
+    </tbody>
+    <tfoot>
+
+      <tr>
+        <td colspan="3">Note: Discounted price is only valid during sale.</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+</html>
+
+
+
+
+
